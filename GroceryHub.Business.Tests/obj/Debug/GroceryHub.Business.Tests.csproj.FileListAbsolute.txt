@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business.Tests\bin\Debug\GroceryHub.Business.Tests.dll
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business.Tests\bin\Debug\GroceryHub.Business.Tests.pdb
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business.Tests\bin\Debug\GroceryHub.Business.dll
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business.Tests\bin\Debug\GroceryHub.Data.dll
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business.Tests\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business.Tests\bin\Debug\GroceryHub.Business.pdb
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business.Tests\bin\Debug\GroceryHub.Data.pdb
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business.Tests\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business.Tests\obj\Debug\GroceryHub.Business.Tests.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business.Tests\obj\Debug\GroceryHub.Business.Tests.dll
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business.Tests\obj\Debug\GroceryHub.Business.Tests.pdb
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business.Tests\bin\Debug\GroceryHub.Business.Tests.dll.config
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business.Tests\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business.Tests\bin\Debug\EntityFramework.SqlServer.xml

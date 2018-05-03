@@ -10,3 +10,8 @@
 \\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business\obj\Debug\GroceryHub.Business.csprojResolveAssemblyReference.cache
 \\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business\obj\Debug\GroceryHub.Business.dll
 \\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business\obj\Debug\GroceryHub.Business.pdb
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business\bin\Debug\AutoMapper.dll
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business\bin\Debug\AutoMapper.Net4.dll
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business\bin\Debug\AutoMapper.pdb
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business\bin\Debug\AutoMapper.xml
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Business\bin\Debug\AutoMapper.Net4.pdb
