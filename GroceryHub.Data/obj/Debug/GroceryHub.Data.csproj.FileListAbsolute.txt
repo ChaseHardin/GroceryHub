@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Data\bin\Debug\GroceryHub.Data.dll.config
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Data\bin\Debug\GroceryHub.Data.dll
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Data\bin\Debug\GroceryHub.Data.pdb
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Data\bin\Debug\EntityFramework.dll
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Data\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Data\bin\Debug\EntityFramework.xml
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Data\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Data\obj\Debug\GroceryHub.Data.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Data\obj\Debug\GroceryHub.Data.dll
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Data\obj\Debug\GroceryHub.Data.pdb
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Data\obj\Debug\GroceryHub.Data.Migrations.GenerateUserProfile.resources
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.Data\obj\Debug\GroceryHub.Data.csproj.GenerateResource.Cache
