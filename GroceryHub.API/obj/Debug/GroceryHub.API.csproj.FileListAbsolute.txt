@@ -18,3 +18,5 @@
 \\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.API\obj\Debug\GroceryHub.API.csprojResolveAssemblyReference.cache
 \\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.API\obj\Debug\GroceryHub.API.dll
 \\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.API\obj\Debug\GroceryHub.API.pdb
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.API\bin\GroceryHub.Business.dll
+\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.API\bin\GroceryHub.Business.pdb

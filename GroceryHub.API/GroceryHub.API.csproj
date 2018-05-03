@@ -85,6 +85,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Features\UserProfileController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -101,13 +102,11 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\GroceryHub.Data\GroceryHub.Data.csproj">
-      <Project>{000b6824-8077-40a3-ac63-f5536b5e69a0}</Project>
-      <Name>GroceryHub.Data</Name>
+    <ProjectReference Include="..\GroceryHub.Business\GroceryHub.Business.csproj">
+      <Project>{c6b29fbe-fb95-4788-af47-c489f199a887}</Project>
+      <Name>GroceryHub.Business</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
@@ -125,7 +124,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>50196</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:50167/</IISUrl>
+          <IISUrl>http://localhost:50170/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
