@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryHub.API", "GroceryHub.API\GroceryHub.API.csproj", "{FC6B3725-7A10-43DA-AEFD-8AC7077F8BC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryHub.Data", "GroceryHub.Data\GroceryHub.Data.csproj", "{000B6824-8077-40A3-AC63-F5536B5E69A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FC6B3725-7A10-43DA-AEFD-8AC7077F8BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC6B3725-7A10-43DA-AEFD-8AC7077F8BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC6B3725-7A10-43DA-AEFD-8AC7077F8BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{000B6824-8077-40A3-AC63-F5536B5E69A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000B6824-8077-40A3-AC63-F5536B5E69A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000B6824-8077-40A3-AC63-F5536B5E69A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000B6824-8077-40A3-AC63-F5536B5E69A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
