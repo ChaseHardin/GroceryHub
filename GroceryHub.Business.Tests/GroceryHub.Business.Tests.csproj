@@ -67,6 +67,10 @@
       <Project>{c6b29fbe-fb95-4788-af47-c489f199a887}</Project>
       <Name>GroceryHub.Business</Name>
     </ProjectReference>
+    <ProjectReference Include="..\GroceryHub.Data\GroceryHub.Data.csproj">
+      <Project>{000b6824-8077-40a3-ac63-f5536b5e69a0}</Project>
+      <Name>GroceryHub.Data</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

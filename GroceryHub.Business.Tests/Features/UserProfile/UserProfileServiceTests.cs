@@ -1,5 +1,6 @@
 ﻿using System.Linq;
 using GroceryHub.Business.Features.UserProfile;
+using GroceryHub.Data.DataGenerators;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace GroceryHub.Business.Tests.Features.UserProfile
@@ -10,17 +11,26 @@ namespace GroceryHub.Business.Tests.Features.UserProfile
         [TestMethod]
         public void GetProfile_returns_chase_and_makenna()
         {
-            var service = new UserProfileService();
-            var actual = service.GetProfile();
+            var actual = new UserProfileService().GetProfile();
 
-            var chase = actual.First(x => x.FirstName.ToLower() == "chase");
-            var makenna = actual.First(x => x.FirstName.ToLower() == "makenna");
+            var expectedChase = UserProfileData.ChaseProfile();
+            var expectedMakenna = UserProfileData.MakennaProfile();
+            var actualChase = actual.First(x => x.Id == expectedChase.Id);
+            var actualMakenna = actual.First(x => x.Id == expectedMakenna.Id);
+            
+            Assert.AreEqual(2, actual.Count());
 
-            Assert.AreEqual(actual.Count(), 2);
-            Assert.AreEqual(chase.FirstName, "Chase");
-            Assert.AreEqual(chase.LastName, "Hardin");
-            Assert.AreEqual(makenna.FirstName, "Makenna");
-            Assert.AreEqual(makenna.LastName, "Ridgway");
+            Assert.AreEqual(expectedChase.Id, actualChase.Id);
+            Assert.AreEqual(expectedChase.FirstName, actualChase.FirstName);
+            Assert.AreEqual(expectedChase.LastName, actualChase.LastName);
+            Assert.AreEqual(expectedChase.AccessToken, actualChase.AccessToken);
+            Assert.AreEqual(expectedChase.EntryDate.Date, actualChase.EntryDate.Date);
+
+            Assert.AreEqual(expectedMakenna.Id, actualMakenna.Id);
+            Assert.AreEqual(expectedMakenna.FirstName, actualMakenna.FirstName);
+            Assert.AreEqual(expectedMakenna.LastName, actualMakenna.LastName);
+            Assert.AreEqual(expectedMakenna.AccessToken, actualMakenna.AccessToken);
+            Assert.AreEqual(expectedMakenna.EntryDate.Date, actualMakenna.EntryDate.Date);
         }
     }
 }
