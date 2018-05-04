@@ -24,13 +24,11 @@ namespace GroceryHub.Business.Tests.Features.UserProfile
             Assert.AreEqual(expectedChase.FirstName, actualChase.FirstName);
             Assert.AreEqual(expectedChase.LastName, actualChase.LastName);
             Assert.AreEqual(expectedChase.AccessToken, actualChase.AccessToken);
-            Assert.AreEqual(expectedChase.EntryDate.Date, actualChase.EntryDate.Date);
 
             Assert.AreEqual(expectedMakenna.Id, actualMakenna.Id);
             Assert.AreEqual(expectedMakenna.FirstName, actualMakenna.FirstName);
             Assert.AreEqual(expectedMakenna.LastName, actualMakenna.LastName);
             Assert.AreEqual(expectedMakenna.AccessToken, actualMakenna.AccessToken);
-            Assert.AreEqual(expectedMakenna.EntryDate.Date, actualMakenna.EntryDate.Date);
         }
     }
 }

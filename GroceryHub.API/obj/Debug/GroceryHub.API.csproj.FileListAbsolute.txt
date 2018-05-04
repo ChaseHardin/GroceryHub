@@ -20,6 +20,3 @@
 \\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.API\obj\Debug\GroceryHub.API.pdb
 \\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.API\bin\GroceryHub.Business.dll
 \\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.API\bin\GroceryHub.Business.pdb
-\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.API\bin\AutoMapper.dll
-\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.API\bin\AutoMapper.pdb
-\\Mac\Home\Documents\Dev\GroceryHub\GroceryHub.API\bin\AutoMapper.xml
