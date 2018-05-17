@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryHub.Business", "Groc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryHub.Business.Tests", "GroceryHub.Business.Tests\GroceryHub.Business.Tests.csproj", "{9FBE080B-F8D3-4702-9814-5D0D55E5E608}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryHub.API.Tests", "GroceryHub.API.Tests\GroceryHub.API.Tests.csproj", "{BDEEB10B-4CE3-4DAB-B75A-DDCBDAD45724}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9FBE080B-F8D3-4702-9814-5D0D55E5E608}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FBE080B-F8D3-4702-9814-5D0D55E5E608}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FBE080B-F8D3-4702-9814-5D0D55E5E608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDEEB10B-4CE3-4DAB-B75A-DDCBDAD45724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEEB10B-4CE3-4DAB-B75A-DDCBDAD45724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEEB10B-4CE3-4DAB-B75A-DDCBDAD45724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEEB10B-4CE3-4DAB-B75A-DDCBDAD45724}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
